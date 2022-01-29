@@ -1,0 +1,1 @@
+I used flex to make it work on different sized screens
